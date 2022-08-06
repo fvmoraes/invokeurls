@@ -1,5 +1,5 @@
-06/08/2022 00:12:17 - START: invokeurls | LIST: /home/franklin.moraes@poa01.local/invokeurls/urls-tnf.txt | BROWSER: google-chrome
-06/08/2022 00:12:25 - START: invokeurls | LIST: /home/franklin.moraes@poa01.local/invokeurls/urls-tjf.txt | BROWSER: google-chrome
+06/08/2022 00:12:17 - START: invokeurls | LIST: /home/franklin.moraes/invokeurls/urls-tnf.txt | BROWSER: google-chrome
+06/08/2022 00:12:25 - START: invokeurls | LIST: /home/franklin.moraes/invokeurls/urls-tjf.txt | BROWSER: google-chrome
 06/08/2022 00:12:34 - START: invokeurls | LIST: urls.txt | BROWSER: goo
 06/08/2022 00:12:35 - ERROR: exec: "goo": executable file not found in $PATH
 06/08/2022 00:12:52 - START: invokeurls | LIST: urls.txt | BROWSER: google-chrome
@@ -14,8 +14,8 @@
 06/08/2022 00:14:25 - STATUS: 404 Not Found | URL: https://agiletools.app/notfoundpage
 06/08/2022 00:14:26 - STATUS: 404 Not Found | URL: https://agileplanning.app/notfoundpage
 06/08/2022 00:14:27 - STATUS: 404 Not Found | URL: http://pudim.com.br/notfoundpage
-06/08/2022 00:14:41 - START: invokeurls | LIST: /home/franklin.moraes@poa01.local/invokeurls/urls-tjf.txt | BROWSER: google-chrome
-06/08/2022 00:14:48 - START: invokeurls | LIST: /home/franklin.moraes@poa01.local/invokeurls/urls-tnf.txt | BROWSER: google-chrome
+06/08/2022 00:14:41 - START: invokeurls | LIST: /home/franklin.moraes/invokeurls/urls-tjf.txt | BROWSER: google-chrome
+06/08/2022 00:14:48 - START: invokeurls | LIST: /home/franklin.moraes/invokeurls/urls-tnf.txt | BROWSER: google-chrome
 06/08/2022 00:15:00 - START: invokeurls | LIST: urls.tx | BROWSER: google-chrome
 06/08/2022 00:15:00 - ERROR: open urls.tx: no such file or directory
 06/08/2022 00:15:05 - START: invokeurls | LIST: urls.tx | BROWSER: google-chr
