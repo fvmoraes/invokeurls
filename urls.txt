@@ -1,0 +1,16 @@
+[[*]]
+https://gremio.net/
+https://www.palmeiras.com.br/
+https://www.google.com.br/
+https://duckduckgo.com/
+https://agiletools.app/
+https://agileplanning.app/
+http://pudim.com.br/
+[[*]]
+https://gremio.net/notfoundpage
+https://www.palmeiras.com.br/notfoundpage
+https://www.google.com.br/notfoundpage
+https://duckduckgo.com/notfoundpage
+https://agiletools.app/notfoundpage
+https://agileplanning.app/notfoundpage
+http://pudim.com.br/notfoundpage

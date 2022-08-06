@@ -1,0 +1,61 @@
+06/08/2022 00:12:17 - START: invokeurls | LIST: /home/franklin.moraes@poa01.local/invokeurls/urls-tnf.txt | BROWSER: google-chrome
+06/08/2022 00:12:25 - START: invokeurls | LIST: /home/franklin.moraes@poa01.local/invokeurls/urls-tjf.txt | BROWSER: google-chrome
+06/08/2022 00:12:34 - START: invokeurls | LIST: urls.txt | BROWSER: goo
+06/08/2022 00:12:35 - ERROR: exec: "goo": executable file not found in $PATH
+06/08/2022 00:12:52 - START: invokeurls | LIST: urls.txt | BROWSER: google-chrome
+06/08/2022 00:12:54 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/
+06/08/2022 00:13:05 - START: invokeurls | LIST: urls.txt | BROWSER: google-chrome
+06/08/2022 00:13:07 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/
+06/08/2022 00:14:09 - START: invokeurls | LIST: urls.txt | BROWSER: google-chrome
+06/08/2022 00:14:11 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/
+06/08/2022 00:14:20 - STATUS: 404 Not Found | URL: https://gremio.net/notfoundpage
+06/08/2022 00:14:21 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/notfoundpage
+06/08/2022 00:14:22 - STATUS: 404 Not Found | URL: https://www.google.com.br/notfoundpage
+06/08/2022 00:14:25 - STATUS: 404 Not Found | URL: https://agiletools.app/notfoundpage
+06/08/2022 00:14:26 - STATUS: 404 Not Found | URL: https://agileplanning.app/notfoundpage
+06/08/2022 00:14:27 - STATUS: 404 Not Found | URL: http://pudim.com.br/notfoundpage
+06/08/2022 00:14:41 - START: invokeurls | LIST: /home/franklin.moraes@poa01.local/invokeurls/urls-tjf.txt | BROWSER: google-chrome
+06/08/2022 00:14:48 - START: invokeurls | LIST: /home/franklin.moraes@poa01.local/invokeurls/urls-tnf.txt | BROWSER: google-chrome
+06/08/2022 00:15:00 - START: invokeurls | LIST: urls.tx | BROWSER: google-chrome
+06/08/2022 00:15:00 - ERROR: open urls.tx: no such file or directory
+06/08/2022 00:15:05 - START: invokeurls | LIST: urls.tx | BROWSER: google-chr
+06/08/2022 00:15:05 - ERROR: open urls.tx: no such file or directory
+06/08/2022 00:15:08 - START: invokeurls | LIST: urls.txt | BROWSER: google-chr
+06/08/2022 00:15:09 - ERROR: exec: "google-chr": executable file not found in $PATH
+06/08/2022 00:15:12 - START: invokeurls | LIST: urls.txt | BROWSER: google-chr
+06/08/2022 00:15:13 - ERROR: exec: "google-chr": executable file not found in $PATH
+06/08/2022 00:15:15 - START: invokeurls | LIST: urls.txt | BROWSER: google-chrom
+06/08/2022 00:15:16 - ERROR: exec: "google-chrom": executable file not found in $PATH
+06/08/2022 00:15:22 - START: invokeurls | LIST: urls.txt | BROWSER: firefox
+06/08/2022 00:15:25 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/
+06/08/2022 00:15:34 - STATUS: 404 Not Found | URL: https://gremio.net/notfoundpage
+06/08/2022 00:15:35 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/notfoundpage
+06/08/2022 00:15:36 - STATUS: 404 Not Found | URL: https://www.google.com.br/notfoundpage
+06/08/2022 00:15:37 - STATUS: 418 I'm a teapot | URL: https://duckduckgo.com/notfoundpage
+06/08/2022 00:15:38 - STATUS: 404 Not Found | URL: https://agiletools.app/notfoundpage
+06/08/2022 00:15:39 - STATUS: 404 Not Found | URL: https://agileplanning.app/notfoundpage
+06/08/2022 00:15:41 - STATUS: 404 Not Found | URL: http://pudim.com.br/notfoundpage
+06/08/2022 00:16:42 - START: invokeurls | LIST: urls.txt | BROWSER: firef
+06/08/2022 00:16:43 - ERROR: exec: "firef": executable file not found in $PATH
+06/08/2022 00:17:20 - START: invokeurls | LIST: urls.txt | BROWSER: google-chrome
+06/08/2022 00:17:23 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/
+06/08/2022 00:17:59 - START: invokeurls | LIST: urls. | BROWSER: google-chrom
+06/08/2022 00:17:59 - ERROR: open urls.: no such file or directory
+06/08/2022 00:18:01 - START: invokeurls | LIST: urls. | BROWSER: google-chrom
+06/08/2022 00:18:01 - ERROR: open urls.: no such file or directory
+06/08/2022 00:18:24 - FAIL: Necessary parameters | EXAMPLE: ./invokeurls <your-urls-list> <your-browser>
+06/08/2022 00:18:24 - ERROR: ERROR: runtime error | PANIC: index out of range
+06/08/2022 00:18:25 - FAIL: Necessary parameters | EXAMPLE: ./invokeurls <your-urls-list> <your-browser>
+06/08/2022 00:18:25 - ERROR: ERROR: runtime error | PANIC: index out of range
+06/08/2022 00:18:30 - FAIL: Necessary parameters | EXAMPLE: ./invokeurls <your-urls-list> <your-browser>
+06/08/2022 00:18:30 - ERROR: ERROR: runtime error | PANIC: index out of range
+06/08/2022 00:18:54 - START: invokeurls | LIST: urls.txt | BROWSER: google-chrome
+06/08/2022 00:18:56 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/
+06/08/2022 00:19:04 - STATUS: 404 Not Found | URL: https://gremio.net/notfoundpage
+06/08/2022 00:19:06 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/notfoundpage
+06/08/2022 00:19:07 - STATUS: 404 Not Found | URL: https://www.google.com.br/notfoundpage
+06/08/2022 00:19:09 - STATUS: 404 Not Found | URL: https://agiletools.app/notfoundpage
+06/08/2022 00:19:10 - STATUS: 404 Not Found | URL: https://agileplanning.app/notfoundpage
+06/08/2022 00:19:11 - STATUS: 404 Not Found | URL: http://pudim.com.br/notfoundpage
+06/08/2022 00:21:18 - START: invokeurls | LIST: urls.txt | BROWSER: google-chrome
+06/08/2022 00:21:21 - STATUS: 403 Forbidden | URL: https://www.palmeiras.com.br/
